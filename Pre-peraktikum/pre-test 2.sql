@@ -1,5 +1,5 @@
--- nama : Angga Saputra
--- NIM : 23241084
+-- nama : rian hidayat
+-- NIM : 23241114
 -- kelas : C
 
 -- Melihat database yang ada
